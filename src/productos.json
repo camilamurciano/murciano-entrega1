@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "bertola",
+    "description": "pinza hemostatica para profundidad",
+    "price": 2000,
+    "status": true,
+    "thumbnail": "sin imagen",
+    "code": "IQ08",
+    "stock": 12,
+    "category": "salud"
+  },
+  {
+    "id": 2,
+    "title": "crille",
+    "description": "pinza hemostatica superficial",
+    "price": 1600,
+    "status": true,
+    "thumbnail": "sin imagen",
+    "code": "IQ19",
+    "stock": 10,
+    "category": "salud"
+  },
+  {
+    "id": 3,
+    "title": "halsted",
+    "description": "pinza hemostatica superficial",
+    "price": 1600,
+    "status": true,
+    "thumbnail": "sin imagen",
+    "code": "IQ10",
+    "stock": 10,
+    "category": "salud"
+  },
+  {
+    "id": 4,
+    "title": "separadores farabeuf",
+    "description": "separadores para separar el tejido y asi tener mejor campo operatorio",
+    "price": 3500,
+    "status": true,
+    "thumbnail": "sin imagen",
+    "code": "IQ11",
+    "stock": 5,
+    "category": "salud"
+  },
+  {
+    "id": 5,
+    "title": "tijera de mayo",
+    "description": "tijera para cortar hilos, tijera de la instrumentadora quirurgica",
+    "price": 2000,
+    "status": true,
+    "thumbnail": "sin imagen",
+    "code": "IQ12",
+    "stock": 10,
+    "category": "salud"
+  },
+  {
+    "id": 6,
+    "title": "tijera metzembaun",
+    "description": "tijera de cirujano, sirve para cortar tejidos, organos, pediculos",
+    "price": 2300,
+    "status": true,
+    "thumbnail": "sin imagen",
+    "code": "IQ13",
+    "stock": 7,
+    "category": "salud"
+  },
+  {
+    "id": 7,
+    "title": "mango de bisturi",
+    "description": "mango de bisturi para incidir piel, puede ser n3 o n4",
+    "price": 1800,
+    "status": true,
+    "thumbnail": "sin imagen",
+    "code": "IQ14",
+    "stock": 4,
+    "category": "salud"
+  },
+  {
+    "id": 8,
+    "title": "electrobistiru",
+    "description": "sirve para cortar tejidos, o coagular vasos",
+    "price": 5500,
+    "status": true,
+    "thumbnail": "sin imagen",
+    "code": "IQ15",
+    "stock": 6,
+    "category": "salud"
+  },
+  {
+    "id": 9,
+    "title": "mano izquierda",
+    "description": "pinza mano izquiera de cirujano, sirve para tomar tejidos. Hay distintos tamaños y utilidades",
+    "price": 1900,
+    "status": true,
+    "thumbnail": "sin imagen",
+    "code": "IQ16",
+    "stock": 5,
+    "category": "salud"
+  },
+  {
+    "id": 10,
+    "title": "foester",
+    "description": "pinza para tomar organo",
+    "price": 3000,
+    "status": true,
+    "thumbnail": "sin imagen",
+    "code": "IQ17",
+    "stock": 3,
+    "category": "salud"
+  }
+]
