@@ -5,7 +5,7 @@
     "description": "pinza hemostatica para profundidad",
     "price": 2000,
     "status": true,
-    "thumbnail": "sin imagen",
+    "thumbnail": "https://res.cloudinary.com/dpzoqa2gm/image/upload/v1703105519/D_NQ_NP_784136-MLA31601895749_072019-O_uk8x00.webp",
     "code": "IQ08",
     "stock": 12,
     "category": "salud"
@@ -16,7 +16,7 @@
     "description": "pinza hemostatica superficial",
     "price": 1600,
     "status": true,
-    "thumbnail": "sin imagen",
+    "thumbnail": "https://res.cloudinary.com/dpzoqa2gm/image/upload/v1703105506/pinza-crile-curva_jrucuy.webp",
     "code": "IQ19",
     "stock": 10,
     "category": "salud"
@@ -27,7 +27,7 @@
     "description": "pinza hemostatica superficial",
     "price": 1600,
     "status": true,
-    "thumbnail": "sin imagen",
+    "thumbnail": "https://res.cloudinary.com/dpzoqa2gm/image/upload/v1703105511/pinza-odontologia-dentista-implantologia-mosquito-punta-curva-dentada-halsted-cirugia_rgejfg.webp",
     "code": "IQ10",
     "stock": 10,
     "category": "salud"
@@ -38,7 +38,7 @@
     "description": "separadores para separar el tejido y asi tener mejor campo operatorio",
     "price": 3500,
     "status": true,
-    "thumbnail": "sin imagen",
+    "thumbnail": "https://res.cloudinary.com/dpzoqa2gm/image/upload/v1701058741/D_NQ_NP_659432-MLA45738437850_042021-V_sxiuue.webp",
     "code": "IQ11",
     "stock": 5,
     "category": "salud"
@@ -49,7 +49,7 @@
     "description": "tijera para cortar hilos, tijera de la instrumentadora quirurgica",
     "price": 2000,
     "status": true,
-    "thumbnail": "sin imagen",
+    "thumbnail": "https://res.cloudinary.com/dpzoqa2gm/image/upload/v1701058793/tijeras-mayo_dvbgpa.webp",
     "code": "IQ12",
     "stock": 10,
     "category": "salud"
@@ -60,7 +60,7 @@
     "description": "tijera de cirujano, sirve para cortar tejidos, organos, pediculos",
     "price": 2300,
     "status": true,
-    "thumbnail": "sin imagen",
+    "thumbnail": "https://res.cloudinary.com/dpzoqa2gm/image/upload/v1701058793/tijeras-metzenbaum_bj4nar.webp",
     "code": "IQ13",
     "stock": 7,
     "category": "salud"
@@ -71,7 +71,7 @@
     "description": "mango de bisturi para incidir piel, puede ser n3 o n4",
     "price": 1800,
     "status": true,
-    "thumbnail": "sin imagen",
+    "thumbnail": "https://res.cloudinary.com/dpzoqa2gm/image/upload/v1703105497/mango-bisturi-n-3-para-hojas-del-n-10-11-12-15-1619095827_nhcbod.webp",
     "code": "IQ14",
     "stock": 4,
     "category": "salud"
@@ -82,7 +82,7 @@
     "description": "sirve para cortar tejidos, o coagular vasos",
     "price": 5500,
     "status": true,
-    "thumbnail": "sin imagen",
+    "thumbnail": "https://res.cloudinary.com/dpzoqa2gm/image/upload/v1701058778/force-triverse-electrosurgical-device-f_pmku4o.webp",
     "code": "IQ15",
     "stock": 6,
     "category": "salud"
@@ -93,7 +93,7 @@
     "description": "pinza mano izquiera de cirujano, sirve para tomar tejidos. Hay distintos tamaños y utilidades",
     "price": 1900,
     "status": true,
-    "thumbnail": "sin imagen",
+    "thumbnail": "https://res.cloudinary.com/dpzoqa2gm/image/upload/v1703105534/D_NQ_NP_919994-MLA31118107581_062019-O_wwp1sn.webp",
     "code": "IQ16",
     "stock": 5,
     "category": "salud"
@@ -104,7 +104,7 @@
     "description": "pinza para tomar organo",
     "price": 3000,
     "status": true,
-    "thumbnail": "sin imagen",
+    "thumbnail": "https://res.cloudinary.com/dpzoqa2gm/image/upload/v1703105482/D_NQ_NP_728770-MLA43611720423_092020-O_pocboi.webp",
     "code": "IQ17",
     "stock": 3,
     "category": "salud"

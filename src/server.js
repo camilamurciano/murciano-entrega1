@@ -1,3 +1,4 @@
+{/*
 const express = require('express');
 const router = require('./router')
 
@@ -9,3 +10,5 @@ app.use(express.json())
 router(app)
 
 module.exports = app;
+*/} 
+//anulado por el server.config.js
